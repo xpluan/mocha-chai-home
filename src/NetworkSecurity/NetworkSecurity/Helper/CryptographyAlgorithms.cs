@@ -1,3 +1,4 @@
 ﻿namespace NetworkSecurity.Helper
 {
-    public e
+    public enum EnumCryptographyAlgorithms
+    {
