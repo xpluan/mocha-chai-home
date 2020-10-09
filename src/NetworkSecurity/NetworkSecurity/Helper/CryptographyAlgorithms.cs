@@ -5,3 +5,5 @@
         Aes,
         Des,
         Rc2,
+        TripleDes,
+        Md5,
