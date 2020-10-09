@@ -2,3 +2,6 @@
 {
     public enum EnumCryptographyAlgorithms
     {
+        Aes,
+        Des,
+        Rc2,
