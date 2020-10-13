@@ -7,3 +7,6 @@
         Rc2,
         TripleDes,
         Md5,
+        Sha1,
+        Sha256,
+    
