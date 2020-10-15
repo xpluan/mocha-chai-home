@@ -2,4 +2,6 @@
 using System.Security.Cryptography;
 using System.Text;
 
-namespa
+namespace NetworkSecurity.Helper
+{
+    public 
