@@ -4,4 +4,5 @@ using System.Text;
 
 namespace NetworkSecurity.Helper
 {
-    public 
+    public static class CryptographyHelper
+  
