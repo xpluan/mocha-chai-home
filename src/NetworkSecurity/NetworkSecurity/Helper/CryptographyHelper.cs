@@ -5,4 +5,5 @@ using System.Text;
 namespace NetworkSecurity.Helper
 {
     public static class CryptographyHelper
-  
+    {
+        public static object GetCry
