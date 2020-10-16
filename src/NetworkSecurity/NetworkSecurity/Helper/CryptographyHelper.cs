@@ -6,4 +6,5 @@ namespace NetworkSecurity.Helper
 {
     public static class CryptographyHelper
     {
-        public static object GetCryptoServiceProvider(this EnumCry
+        public static object GetCryptoServiceProvider(this EnumCryptographyAlgorithms algorithm)
+       
