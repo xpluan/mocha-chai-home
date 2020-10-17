@@ -10,4 +10,5 @@ namespace NetworkSecurity.Helper
         {
             switch (algorithm)
             {
-                // Symmetri
+                // Symmetric Algorithms
+                case EnumC
