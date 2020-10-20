@@ -11,4 +11,4 @@ namespace NetworkSecurity.Helper
             switch (algorithm)
             {
                 // Symmetric Algorithms
-                case EnumCryptographyAlgorithms.Aes: return new AesCr
+                case EnumCryptographyAlgorithms.Aes: return new AesCryptoServiceProvider();// :AE
