@@ -12,4 +12,4 @@ namespace NetworkSecurity.Helper
             {
                 // Symmetric Algorithms
                 case EnumCryptographyAlgorithms.Aes: return new AesCryptoServiceProvider();// :AES  :SymmetricAlgorithm
-                case EnumCryptographyAlgorithms.Des: return new DESCryptoServicePro
+                case EnumCryptographyAlgorithms.Des: return new DESCryptoServiceProvider();// :DES :SymmetricAlgo
