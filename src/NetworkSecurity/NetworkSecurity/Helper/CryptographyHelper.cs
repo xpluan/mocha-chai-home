@@ -16,4 +16,5 @@ namespace NetworkSecurity.Helper
                 case EnumCryptographyAlgorithms.TripleDes: return new TripleDESCryptoServiceProvider(); // :TripleDES :SymmetricAlgorithm
                 case EnumCryptographyAlgorithms.Rc2: return new RC2CryptoServiceProvider();// :RC2 :SymmetricAlgorithm
 
-                // Ha
+                // Hash Algorithms
+                case Enu
