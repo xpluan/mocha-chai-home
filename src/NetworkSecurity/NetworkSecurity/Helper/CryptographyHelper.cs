@@ -17,4 +17,4 @@ namespace NetworkSecurity.Helper
                 case EnumCryptographyAlgorithms.Rc2: return new RC2CryptoServiceProvider();// :RC2 :SymmetricAlgorithm
 
                 // Hash Algorithms
-                case Enu
+                case EnumCryptographyAlgorithms.Md5: retur
