@@ -18,4 +18,4 @@ namespace NetworkSecurity.Helper
 
                 // Hash Algorithms
                 case EnumCryptographyAlgorithms.Md5: return new MD5CryptoServiceProvider();// MD5  :HashAlgorithm
-                case EnumCryptographyAlgorithms.Sha1: return n
+                case EnumCryptographyAlgorithms.Sha1: return new SHA1CryptoServiceProvider();// S
