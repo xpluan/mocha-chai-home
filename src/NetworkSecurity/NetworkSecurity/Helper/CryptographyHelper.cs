@@ -21,4 +21,5 @@ namespace NetworkSecurity.Helper
                 case EnumCryptographyAlgorithms.Sha1: return new SHA1CryptoServiceProvider();// SHA1  :HashAlgorithm
                 case EnumCryptographyAlgorithms.Sha256: return new SHA256CryptoServiceProvider();// SHA256 :HashAlgorith
                 case EnumCryptographyAlgorithms.Sha384: return new SHA384CryptoServiceProvider();// SHA384  :HashAlgorithm
-                case EnumCryptographyAlgorithms.Sha512: return new SHA512CryptoServi
+                case EnumCryptographyAlgorithms.Sha512: return new SHA512CryptoServiceProvider();// SHA512  :HashAlgorithm
+
