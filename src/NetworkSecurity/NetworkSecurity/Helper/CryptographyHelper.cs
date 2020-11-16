@@ -27,3 +27,4 @@ namespace NetworkSecurity.Helper
             }
         }
 
+        public static byte[] Encryp
