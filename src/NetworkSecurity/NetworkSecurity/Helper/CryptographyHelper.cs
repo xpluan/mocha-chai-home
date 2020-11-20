@@ -27,4 +27,4 @@ namespace NetworkSecurity.Helper
             }
         }
 
-        public static byte[] Encrypt(this byte[] toEncryptArray, stri
+        public static byte[] Encrypt(this byte[] toEncryptArray, string key, EnumCryptographyAlgorithms a
