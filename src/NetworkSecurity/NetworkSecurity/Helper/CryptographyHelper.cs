@@ -31,4 +31,4 @@ namespace NetworkSecurity.Helper
         {
             byte[] resultArray = null;
 
-       
+            var objAlgorithmProvider = algori
