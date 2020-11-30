@@ -35,4 +35,4 @@ namespace NetworkSecurity.Helper
 
             if (objAlgorithmProvider is SymmetricAlgorithm symmetricAlg)
             {
-                //set t
+                //set the secret key for the symmetr
