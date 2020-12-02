@@ -39,4 +39,5 @@ namespace NetworkSecurity.Helper
                 symmetricAlg.SetupSymmetric(key);
 
                 var cTransform = symmetricAlg.CreateEncryptor();
-                //transform the specified region of bytes a
+                //transform the specified region of bytes array to resultArray
+                resu
