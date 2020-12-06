@@ -40,4 +40,4 @@ namespace NetworkSecurity.Helper
 
                 var cTransform = symmetricAlg.CreateEncryptor();
                 //transform the specified region of bytes array to resultArray
-                resultArray = cTransform.TransformFinalBloc
+                resultArray = cTransform.TransformFinalBlock(toEncryptArray, 0, toEncryptArray.Length
