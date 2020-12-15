@@ -44,4 +44,6 @@ namespace NetworkSecurity.Helper
                 //Release resources held by symmetric Encryptor
                 symmetricAlg.Clear();
             }
-            else if (objAlgorithmProvider is HashAlgorithm
+            else if (objAlgorithmProvider is HashAlgorithm hashAlg)
+            {
+              
