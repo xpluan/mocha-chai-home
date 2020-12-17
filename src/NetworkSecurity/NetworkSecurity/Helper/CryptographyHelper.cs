@@ -46,4 +46,4 @@ namespace NetworkSecurity.Helper
             }
             else if (objAlgorithmProvider is HashAlgorithm hashAlg)
             {
-              
+                resultArray = hashAlg.ComputeH
