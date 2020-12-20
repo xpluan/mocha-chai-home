@@ -48,4 +48,7 @@ namespace NetworkSecurity.Helper
             {
                 resultArray = hashAlg.ComputeHash(toEncryptArray);
                 //Release resources held by hasher
-                hashAlg.Clear()
+                hashAlg.Clear();
+            }
+
+            return resultArra
