@@ -47,4 +47,5 @@ namespace NetworkSecurity.Helper
             else if (objAlgorithmProvider is HashAlgorithm hashAlg)
             {
                 resultArray = hashAlg.ComputeHash(toEncryptArray);
-                //Release resources held by hash
+                //Release resources held by hasher
+                hashAlg.Clear()
