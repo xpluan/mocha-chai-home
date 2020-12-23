@@ -51,4 +51,7 @@ namespace NetworkSecurity.Helper
                 hashAlg.Clear();
             }
 
-            return resultArra
+            return resultArray;
+        }
+
+        public static s
