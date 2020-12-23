@@ -54,4 +54,4 @@ namespace NetworkSecurity.Helper
             return resultArray;
         }
 
-        public static string Encrypt(this string toEncrypt, s
+        public static string Encrypt(this string toEncrypt, string key, EnumCryptographyAl
