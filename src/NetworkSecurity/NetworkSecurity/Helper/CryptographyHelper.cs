@@ -57,4 +57,4 @@ namespace NetworkSecurity.Helper
         public static string Encrypt(this string toEncrypt, string key, EnumCryptographyAlgorithms algorithm)
         {
             // string --> (utf8) byte[] --> encrypt ---> byte[] ---> (base64) string
-            var toEncryptArray = Enco
+            var toEncryptArray = Encoding.UTF8.GetBytes(toEncrypt);
