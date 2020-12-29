@@ -60,4 +60,4 @@ namespace NetworkSecurity.Helper
             var toEncryptArray = Encoding.UTF8.GetBytes(toEncrypt);
             var encryptedBytes = toEncryptArray.Encrypt(key, algorithm);
 
-   
+            //Return the encrypted dat
