@@ -58,4 +58,6 @@ namespace NetworkSecurity.Helper
         {
             // string --> (utf8) byte[] --> encrypt ---> byte[] ---> (base64) string
             var toEncryptArray = Encoding.UTF8.GetBytes(toEncrypt);
-            var encryptedBytes = toEncryptAr
+            var encryptedBytes = toEncryptArray.Encrypt(key, algorithm);
+
+   
