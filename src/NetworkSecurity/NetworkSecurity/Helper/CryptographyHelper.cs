@@ -61,4 +61,7 @@ namespace NetworkSecurity.Helper
             var encryptedBytes = toEncryptArray.Encrypt(key, algorithm);
 
             //Return the encrypted data into unreadable string format
-            return Convert.ToBase64String(encryptedBytes, 0, encryptedByte
+            return Convert.ToBase64String(encryptedBytes, 0, encryptedBytes.Length);
+        }
+
+        public s
