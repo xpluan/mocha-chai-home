@@ -64,4 +64,4 @@ namespace NetworkSecurity.Helper
             return Convert.ToBase64String(encryptedBytes, 0, encryptedBytes.Length);
         }
 
-        public s
+        public static byte[] Decrypt(this byte[] cipherArray, 
