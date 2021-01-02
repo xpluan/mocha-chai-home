@@ -66,4 +66,6 @@ namespace NetworkSecurity.Helper
 
         public static byte[] Decrypt(this byte[] cipherArray, string key, EnumCryptographyAlgorithms algorithm)
         {
-           
+            byte[] resultArray = null;
+
+ 
