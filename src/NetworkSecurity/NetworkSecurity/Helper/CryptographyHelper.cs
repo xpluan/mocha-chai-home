@@ -68,4 +68,6 @@ namespace NetworkSecurity.Helper
         {
             byte[] resultArray = null;
 
-            var objAlgorithmProvider = algorithm.GetCryptoServiceProvi
+            var objAlgorithmProvider = algorithm.GetCryptoServiceProvider();
+
+            if (objAl
