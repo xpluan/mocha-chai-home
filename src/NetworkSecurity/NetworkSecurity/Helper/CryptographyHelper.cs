@@ -70,4 +70,5 @@ namespace NetworkSecurity.Helper
 
             var objAlgorithmProvider = algorithm.GetCryptoServiceProvider();
 
-            if (objAlgorithmProvider is SymmetricAlgori
+            if (objAlgorithmProvider is SymmetricAlgorithm symmetricAlg)
+           
