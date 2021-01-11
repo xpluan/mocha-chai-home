@@ -75,4 +75,5 @@ namespace NetworkSecurity.Helper
                 //set the secret key for the symmetric algorithm
                 symmetricAlg.SetupSymmetric(key);
 
-                var cTransform = symmetricAlg.Create
+                var cTransform = symmetricAlg.CreateDecryptor();
+                result
