@@ -76,4 +76,4 @@ namespace NetworkSecurity.Helper
                 symmetricAlg.SetupSymmetric(key);
 
                 var cTransform = symmetricAlg.CreateDecryptor();
-                result
+                resultArray = cTransform.TransformFinalB
