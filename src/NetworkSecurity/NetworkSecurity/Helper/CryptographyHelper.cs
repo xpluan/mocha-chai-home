@@ -78,4 +78,5 @@ namespace NetworkSecurity.Helper
                 var cTransform = symmetricAlg.CreateDecryptor();
                 resultArray = cTransform.TransformFinalBlock(cipherArray, 0, cipherArray.Length);
 
-                //Release resource
+                //Release resources held by symmetric Encryptor
+     
