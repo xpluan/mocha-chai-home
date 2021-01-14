@@ -82,4 +82,7 @@ namespace NetworkSecurity.Helper
                 symmetricAlg.Clear();
             }
 
-            return resu
+            return resultArray;
+        }
+
+        public stati
