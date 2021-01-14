@@ -80,4 +80,6 @@ namespace NetworkSecurity.Helper
 
                 //Release resources held by symmetric Encryptor
                 symmetricAlg.Clear();
-    
+            }
+
+            return resu
