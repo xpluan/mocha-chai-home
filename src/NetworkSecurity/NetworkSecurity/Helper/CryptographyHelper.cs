@@ -85,4 +85,4 @@ namespace NetworkSecurity.Helper
             return resultArray;
         }
 
-        public stati
+        public static string Decrypt(this string cipherStri
