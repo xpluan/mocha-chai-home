@@ -85,4 +85,6 @@ namespace NetworkSecurity.Helper
             return resultArray;
         }
 
-        public static string Decrypt(this string cipherString, string key, EnumCryptographyAlgo
+        public static string Decrypt(this string cipherString, string key, EnumCryptographyAlgorithms algorithm)
+        {
+      
