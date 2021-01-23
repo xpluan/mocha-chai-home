@@ -88,4 +88,5 @@ namespace NetworkSecurity.Helper
         public static string Decrypt(this string cipherString, string key, EnumCryptographyAlgorithms algorithm)
         {
             //get the byte code of the string
-            var toEncryptArray = Convert.FromBase64String(ciph
+            var toEncryptArray = Convert.FromBase64String(cipherString);
+           
