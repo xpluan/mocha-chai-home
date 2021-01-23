@@ -89,4 +89,4 @@ namespace NetworkSecurity.Helper
         {
             //get the byte code of the string
             var toEncryptArray = Convert.FromBase64String(cipherString);
-           
+            var decryptedBytes = toEncry
