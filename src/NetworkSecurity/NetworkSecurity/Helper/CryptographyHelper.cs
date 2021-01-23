@@ -87,4 +87,5 @@ namespace NetworkSecurity.Helper
 
         public static string Decrypt(this string cipherString, string key, EnumCryptographyAlgorithms algorithm)
         {
-            //get the byte code of
+            //get the byte code of the string
+            var toEn
