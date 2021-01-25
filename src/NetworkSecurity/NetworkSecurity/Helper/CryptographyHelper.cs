@@ -91,4 +91,5 @@ namespace NetworkSecurity.Helper
             var toEncryptArray = Convert.FromBase64String(cipherString);
             var decryptedBytes = toEncryptArray.Decrypt(key, algorithm);
 
-     
+            //return the Clear decrypted TEXT
+ 
