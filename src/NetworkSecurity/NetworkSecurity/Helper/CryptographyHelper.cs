@@ -92,4 +92,8 @@ namespace NetworkSecurity.Helper
             var decryptedBytes = toEncryptArray.Decrypt(key, algorithm);
 
             //return the Clear decrypted TEXT
-            return Encoding.UTF8.GetS
+            return Encoding.UTF8.GetString(decryptedBytes);
+        }
+
+
+ 
