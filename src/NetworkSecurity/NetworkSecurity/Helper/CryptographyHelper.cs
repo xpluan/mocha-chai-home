@@ -96,4 +96,4 @@ namespace NetworkSecurity.Helper
         }
 
 
-        public static void SetupSymmetric(this 
+        public static void SetupSymmetric(this SymmetricAlgorithm alg, string pass, str
