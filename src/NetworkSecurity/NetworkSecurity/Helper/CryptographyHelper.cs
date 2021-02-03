@@ -100,4 +100,5 @@ namespace NetworkSecurity.Helper
         {
             // get salt bytes in ASCII encoding
             var saltBytes = Encoding.ASCII.GetBytes(salt);
-            /
+            //
+            // create a password with pass an
