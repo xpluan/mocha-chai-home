@@ -99,4 +99,5 @@ namespace NetworkSecurity.Helper
         public static void SetupSymmetric(this SymmetricAlgorithm alg, string pass, string salt = @"A1b2C3d4E@noise")
         {
             // get salt bytes in ASCII encoding
-            var saltBytes = Encoding.ASCII
+            var saltBytes = Encoding.ASCII.GetBytes(salt);
+            /
