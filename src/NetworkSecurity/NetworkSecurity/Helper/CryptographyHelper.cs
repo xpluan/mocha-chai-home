@@ -102,4 +102,4 @@ namespace NetworkSecurity.Helper
             var saltBytes = Encoding.ASCII.GetBytes(salt);
             //
             // create a password with pass and salt to derive key
-            var key = new
+            var key = new Rfc2898DeriveBytes(pass, saltBytes
