@@ -103,4 +103,5 @@ namespace NetworkSecurity.Helper
             //
             // create a password with pass and salt to derive key
             var key = new Rfc2898DeriveBytes(pass, saltBytes);
-            alg.Key = key.GetBytes(alg.KeySize / 8); // set key by algor
+            alg.Key = key.GetBytes(alg.KeySize / 8); // set key by algorithm
+            alg.IV = key.GetBytes(al
