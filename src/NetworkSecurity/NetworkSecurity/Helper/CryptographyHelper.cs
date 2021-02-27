@@ -106,4 +106,5 @@ namespace NetworkSecurity.Helper
             alg.Key = key.GetBytes(alg.KeySize / 8); // set key by algorithm
             alg.IV = key.GetBytes(alg.BlockSize / 8); // set initialization vector by algorithm block size
 
-            //mode of operation. there are
+            //mode of operation. there are other 4 modes.
+            //We cho
