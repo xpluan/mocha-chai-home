@@ -107,4 +107,5 @@ namespace NetworkSecurity.Helper
             alg.IV = key.GetBytes(alg.BlockSize / 8); // set initialization vector by algorithm block size
 
             //mode of operation. there are other 4 modes.
-            //We cho
+            //We choose ECB(Electronic code Book)
+      
