@@ -110,4 +110,4 @@ namespace NetworkSecurity.Helper
             //We choose ECB(Electronic code Book)
             alg.Mode = CipherMode.ECB;
 
-      
+            //padding mode(if any extra byte added)
