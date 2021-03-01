@@ -108,4 +108,6 @@ namespace NetworkSecurity.Helper
 
             //mode of operation. there are other 4 modes.
             //We choose ECB(Electronic code Book)
+            alg.Mode = CipherMode.ECB;
+
       
