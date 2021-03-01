@@ -111,3 +111,4 @@ namespace NetworkSecurity.Helper
             alg.Mode = CipherMode.ECB;
 
             //padding mode(if any extra byte added)
+            alg.Padding = P
