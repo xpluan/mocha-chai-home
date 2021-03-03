@@ -113,4 +113,6 @@ namespace NetworkSecurity.Helper
             //padding mode(if any extra byte added)
             alg.Padding = PaddingMode.PKCS7;
 
-            // alg sho
+            // alg should now fully set-up.
+        }
+    }
