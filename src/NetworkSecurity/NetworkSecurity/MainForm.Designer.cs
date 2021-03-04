@@ -75,3 +75,38 @@ namespace NetworkSecurity
             this.splitContainer.Panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.splitContainer.Panel1.Controls.Add(this.gbEncrypted);
             this.splitContainer.Panel1MinSize = 50;
+            // 
+            // splitContainer.Panel2
+            // 
+            this.splitContainer.Panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
+            this.splitContainer.Panel2.Controls.Add(this.gbDecrypted);
+            this.splitContainer.Panel2MinSize = 50;
+            this.splitContainer.Size = new System.Drawing.Size(1014, 532);
+            this.splitContainer.SplitterDistance = 502;
+            this.splitContainer.TabIndex = 1;
+            // 
+            // gbEncrypted
+            // 
+            this.gbEncrypted.BackColor = System.Drawing.Color.Thistle;
+            this.gbEncrypted.Controls.Add(this.lblEncryptDuration);
+            this.gbEncrypted.Controls.Add(this.btnDecrypt);
+            this.gbEncrypted.Controls.Add(this.lblBrowseEncryptedBinaryFile);
+            this.gbEncrypted.Controls.Add(this.btnBrowseEncryptedBinaryFile);
+            this.gbEncrypted.Controls.Add(this.lblEncryptedText);
+            this.gbEncrypted.Controls.Add(this.txtEncryptedText);
+            this.gbEncrypted.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.gbEncrypted.Location = new System.Drawing.Point(0, 0);
+            this.gbEncrypted.Name = "gbEncrypted";
+            this.gbEncrypted.Size = new System.Drawing.Size(502, 532);
+            this.gbEncrypted.TabIndex = 0;
+            this.gbEncrypted.TabStop = false;
+            this.gbEncrypted.Text = "Encrypted";
+            // 
+            // lblEncryptDuration
+            // 
+            this.lblEncryptDuration.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.lblEncryptDuration.AutoSize = true;
+            this.lblEncryptDuration.Location = new System.Drawing.Point(31, 412);
+            this.lblEncryptDuration.Name = "lblEncryptDuration";
+            this.lblEncryptDuration.Size = new System.Drawing.Size(114, 17);
+            this.lblEncryptDuration.TabIndex = 6;
