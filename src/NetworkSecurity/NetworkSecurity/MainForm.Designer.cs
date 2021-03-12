@@ -110,3 +110,41 @@ namespace NetworkSecurity
             this.lblEncryptDuration.Name = "lblEncryptDuration";
             this.lblEncryptDuration.Size = new System.Drawing.Size(114, 17);
             this.lblEncryptDuration.TabIndex = 6;
+            this.lblEncryptDuration.Text = "Encrypt Duration";
+            // 
+            // btnDecrypt
+            // 
+            this.btnDecrypt.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnDecrypt.Location = new System.Drawing.Point(318, 484);
+            this.btnDecrypt.Name = "btnDecrypt";
+            this.btnDecrypt.Size = new System.Drawing.Size(148, 36);
+            this.btnDecrypt.TabIndex = 5;
+            this.btnDecrypt.Text = "Decrypt =>";
+            this.btnDecrypt.UseVisualStyleBackColor = true;
+            // 
+            // lblBrowseEncryptedBinaryFile
+            // 
+            this.lblBrowseEncryptedBinaryFile.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.lblBrowseEncryptedBinaryFile.AutoSize = true;
+            this.lblBrowseEncryptedBinaryFile.Location = new System.Drawing.Point(31, 350);
+            this.lblBrowseEncryptedBinaryFile.Name = "lblBrowseEncryptedBinaryFile";
+            this.lblBrowseEncryptedBinaryFile.Size = new System.Drawing.Size(107, 17);
+            this.lblBrowseEncryptedBinaryFile.TabIndex = 4;
+            this.lblBrowseEncryptedBinaryFile.Text = "Binary File Path";
+            // 
+            // btnBrowseEncryptedBinaryFile
+            // 
+            this.btnBrowseEncryptedBinaryFile.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnBrowseEncryptedBinaryFile.Location = new System.Drawing.Point(34, 294);
+            this.btnBrowseEncryptedBinaryFile.Name = "btnBrowseEncryptedBinaryFile";
+            this.btnBrowseEncryptedBinaryFile.Size = new System.Drawing.Size(432, 43);
+            this.btnBrowseEncryptedBinaryFile.TabIndex = 3;
+            this.btnBrowseEncryptedBinaryFile.Text = "Browse Binary File";
+            this.btnBrowseEncryptedBinaryFile.UseVisualStyleBackColor = true;
+            // 
+            // lblEncryptedText
+            // 
+            this.lblEncryptedText.AutoSize = true;
+            this.lblEncryptedText.Location = new System.Drawing.Point(31, 45);
+            this.lblEncryptedText.Name = "lblEncryptedText";
