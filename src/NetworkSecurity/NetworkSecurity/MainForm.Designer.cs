@@ -148,3 +148,43 @@ namespace NetworkSecurity
             this.lblEncryptedText.AutoSize = true;
             this.lblEncryptedText.Location = new System.Drawing.Point(31, 45);
             this.lblEncryptedText.Name = "lblEncryptedText";
+            this.lblEncryptedText.Size = new System.Drawing.Size(107, 17);
+            this.lblEncryptedText.TabIndex = 2;
+            this.lblEncryptedText.Text = "Encrypted Text:";
+            // 
+            // txtEncryptedText
+            // 
+            this.txtEncryptedText.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.txtEncryptedText.Location = new System.Drawing.Point(34, 65);
+            this.txtEncryptedText.Multiline = true;
+            this.txtEncryptedText.Name = "txtEncryptedText";
+            this.txtEncryptedText.Size = new System.Drawing.Size(432, 223);
+            this.txtEncryptedText.TabIndex = 0;
+            // 
+            // gbDecrypted
+            // 
+            this.gbDecrypted.BackColor = System.Drawing.Color.PowderBlue;
+            this.gbDecrypted.Controls.Add(this.lblDecryptDuration);
+            this.gbDecrypted.Controls.Add(this.btnEncrypt);
+            this.gbDecrypted.Controls.Add(this.lblBrowseDecryptedBinaryFile);
+            this.gbDecrypted.Controls.Add(this.btnBrowseDecryptedBinaryFile);
+            this.gbDecrypted.Controls.Add(this.lblDecryptedText);
+            this.gbDecrypted.Controls.Add(this.txtDecryptedText);
+            this.gbDecrypted.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.gbDecrypted.Location = new System.Drawing.Point(0, 0);
+            this.gbDecrypted.Name = "gbDecrypted";
+            this.gbDecrypted.Size = new System.Drawing.Size(508, 532);
+            this.gbDecrypted.TabIndex = 1;
+            this.gbDecrypted.TabStop = false;
+            this.gbDecrypted.Text = "Decrypted";
+            // 
+            // lblDecryptDuration
+            // 
+            this.lblDecryptDuration.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.lblDecryptDuration.AutoSize = true;
+            this.lblDecryptDuration.Location = new System.Drawing.Point(33, 412);
+            this.lblDecryptDuration.Name = "lblDecryptDuration";
+            this.lblDecryptDuration.Size = new System.Drawing.Size(115, 17);
+            this.lblDecryptDuration.TabIndex = 13;
