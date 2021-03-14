@@ -312,3 +312,39 @@ namespace NetworkSecurity
             // 
             // progress
             // 
+            this.progress.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.progress.Location = new System.Drawing.Point(0, 607);
+            this.progress.Name = "progress";
+            this.progress.Size = new System.Drawing.Size(1014, 15);
+            this.progress.Step = 1;
+            this.progress.TabIndex = 3;
+            // 
+            // MainForm
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(120F, 120F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi;
+            this.ClientSize = new System.Drawing.Size(1014, 623);
+            this.Controls.Add(this.progress);
+            this.Controls.Add(this.gbCrypto);
+            this.Controls.Add(this.splitContainer);
+            this.Name = "MainForm";
+            this.Text = "Cryptography Example";
+            this.Load += new System.EventHandler(this.MainForm_Load);
+            this.splitContainer.Panel1.ResumeLayout(false);
+            this.splitContainer.Panel2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.splitContainer)).EndInit();
+            this.splitContainer.ResumeLayout(false);
+            this.gbEncrypted.ResumeLayout(false);
+            this.gbEncrypted.PerformLayout();
+            this.gbDecrypted.ResumeLayout(false);
+            this.gbDecrypted.PerformLayout();
+            this.gbCrypto.ResumeLayout(false);
+            this.gbCrypto.PerformLayout();
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.SplitContainer splitContainer;
