@@ -255,3 +255,30 @@ namespace NetworkSecurity
             this.rbtnSelectTextType.Text = "Text";
             this.rbtnSelectTextType.UseVisualStyleBackColor = true;
             // 
+            // rbtnSelectBinaryType
+            // 
+            this.rbtnSelectBinaryType.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.rbtnSelectBinaryType.AutoSize = true;
+            this.rbtnSelectBinaryType.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.rbtnSelectBinaryType.Location = new System.Drawing.Point(905, 27);
+            this.rbtnSelectBinaryType.Name = "rbtnSelectBinaryType";
+            this.rbtnSelectBinaryType.Size = new System.Drawing.Size(69, 21);
+            this.rbtnSelectBinaryType.TabIndex = 7;
+            this.rbtnSelectBinaryType.Text = "Binary";
+            this.rbtnSelectBinaryType.UseVisualStyleBackColor = true;
+            // 
+            // cmbCryptoTypes
+            // 
+            this.cmbCryptoTypes.FormattingEnabled = true;
+            this.cmbCryptoTypes.Location = new System.Drawing.Point(22, 26);
+            this.cmbCryptoTypes.Name = "cmbCryptoTypes";
+            this.cmbCryptoTypes.Size = new System.Drawing.Size(234, 24);
+            this.cmbCryptoTypes.TabIndex = 8;
+            // 
+            // gbCrypto
+            // 
+            this.gbCrypto.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.gbCrypto.BackColor = System.Drawing.Color.DarkSeaGreen;
+            this.gbCrypto.Controls.Add(this.lblKey);
+            this.gbCrypto.Controls.Add(this.txtKey);
