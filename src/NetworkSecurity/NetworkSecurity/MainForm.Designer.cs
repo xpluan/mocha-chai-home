@@ -282,3 +282,33 @@ namespace NetworkSecurity
             this.gbCrypto.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.gbCrypto.Controls.Add(this.lblKey);
             this.gbCrypto.Controls.Add(this.txtKey);
+            this.gbCrypto.Controls.Add(this.rbtnSelectBinaryType);
+            this.gbCrypto.Controls.Add(this.rbtnSelectTextType);
+            this.gbCrypto.Controls.Add(this.cmbCryptoTypes);
+            this.gbCrypto.Location = new System.Drawing.Point(2, 1);
+            this.gbCrypto.Name = "gbCrypto";
+            this.gbCrypto.Size = new System.Drawing.Size(1010, 70);
+            this.gbCrypto.TabIndex = 2;
+            this.gbCrypto.TabStop = false;
+            this.gbCrypto.Text = "Cryptography Type Selector";
+            // 
+            // lblKey
+            // 
+            this.lblKey.AutoSize = true;
+            this.lblKey.Location = new System.Drawing.Point(387, 28);
+            this.lblKey.Name = "lblKey";
+            this.lblKey.Size = new System.Drawing.Size(36, 17);
+            this.lblKey.TabIndex = 10;
+            this.lblKey.Text = "Key:";
+            // 
+            // txtKey
+            // 
+            this.txtKey.Location = new System.Drawing.Point(429, 26);
+            this.txtKey.Name = "txtKey";
+            this.txtKey.Size = new System.Drawing.Size(180, 22);
+            this.txtKey.TabIndex = 9;
+            this.txtKey.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.txtKey.UseSystemPasswordChar = true;
+            // 
+            // progress
+            // 
