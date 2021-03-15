@@ -348,3 +348,26 @@ namespace NetworkSecurity
         #endregion
 
         private System.Windows.Forms.SplitContainer splitContainer;
+        private System.Windows.Forms.GroupBox gbEncrypted;
+        private System.Windows.Forms.GroupBox gbDecrypted;
+        private System.Windows.Forms.Label lblEncryptedText;
+        private System.Windows.Forms.TextBox txtEncryptedText;
+        private System.Windows.Forms.Label lblBrowseEncryptedBinaryFile;
+        private System.Windows.Forms.Button btnBrowseEncryptedBinaryFile;
+        private System.Windows.Forms.RadioButton rbtnSelectBinaryType;
+        private System.Windows.Forms.RadioButton rbtnSelectTextType;
+        private System.Windows.Forms.Button btnDecrypt;
+        private System.Windows.Forms.Button btnEncrypt;
+        private System.Windows.Forms.Label lblBrowseDecryptedBinaryFile;
+        private System.Windows.Forms.Button btnBrowseDecryptedBinaryFile;
+        private System.Windows.Forms.Label lblDecryptedText;
+        private System.Windows.Forms.TextBox txtDecryptedText;
+        private System.Windows.Forms.ComboBox cmbCryptoTypes;
+        private System.Windows.Forms.GroupBox gbCrypto;
+        private System.Windows.Forms.Label lblKey;
+        private System.Windows.Forms.TextBox txtKey;
+        private System.Windows.Forms.ProgressBar progress;
+        private System.Windows.Forms.Label lblEncryptDuration;
+        private System.Windows.Forms.Label lblDecryptDuration;
+    }
+}
