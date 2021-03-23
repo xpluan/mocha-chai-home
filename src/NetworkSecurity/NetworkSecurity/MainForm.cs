@@ -4,3 +4,5 @@ using System.IO;
 using System.Security.Cryptography;
 using System.Windows.Forms;
 using NetworkSecurity.Helper;
+
+namespace NetworkSecurity
