@@ -7,4 +7,6 @@ using NetworkSecurity.Helper;
 
 namespace NetworkSecurity
 {
-    public partial class
+    public partial class MainForm : Form
+    {
+        pu
