@@ -6,3 +6,5 @@ using System.Windows.Forms;
 using NetworkSecurity.Helper;
 
 namespace NetworkSecurity
+{
+    public partial class
