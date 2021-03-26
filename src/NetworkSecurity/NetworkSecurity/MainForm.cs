@@ -9,4 +9,6 @@ namespace NetworkSecurity
 {
     public partial class MainForm : Form
     {
-        pu
+        public string GetKey()
+        {
+        
