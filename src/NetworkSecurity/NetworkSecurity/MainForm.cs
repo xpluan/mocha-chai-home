@@ -11,4 +11,4 @@ namespace NetworkSecurity
     {
         public string GetKey()
         {
-        
+            return string.IsNullOrWhiteSpace
