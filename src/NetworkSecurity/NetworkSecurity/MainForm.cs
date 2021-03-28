@@ -11,4 +11,7 @@ namespace NetworkSecurity
     {
         public string GetKey()
         {
-            return string.IsNullOrWhiteSpace(txtKey.Text) ? "default_key" : 
+            return string.IsNullOrWhiteSpace(txtKey.Text) ? "default_key" : txtKey.Text;
+        }
+
+        p
