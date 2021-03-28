@@ -14,4 +14,4 @@ namespace NetworkSecurity
             return string.IsNullOrWhiteSpace(txtKey.Text) ? "default_key" : txtKey.Text;
         }
 
-        p
+        public EnumCryptographyAlgori
