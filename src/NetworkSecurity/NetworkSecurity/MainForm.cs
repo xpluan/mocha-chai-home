@@ -15,4 +15,5 @@ namespace NetworkSecurity
         }
 
         public EnumCryptographyAlgorithms GetSelectedAlgorithm()
-       
+        {
+            return (EnumCryp
