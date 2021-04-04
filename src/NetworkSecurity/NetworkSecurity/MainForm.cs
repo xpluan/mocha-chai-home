@@ -14,4 +14,5 @@ namespace NetworkSecurity
             return string.IsNullOrWhiteSpace(txtKey.Text) ? "default_key" : txtKey.Text;
         }
 
-        public EnumCryptographyAlgori
+        public EnumCryptographyAlgorithms GetSelectedAlgorithm()
+       
