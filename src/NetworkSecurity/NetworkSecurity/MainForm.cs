@@ -16,4 +16,8 @@ namespace NetworkSecurity
 
         public EnumCryptographyAlgorithms GetSelectedAlgorithm()
         {
-            return (EnumCryptographyAlgorithms)cmbCryptoTypes.
+            return (EnumCryptographyAlgorithms)cmbCryptoTypes.SelectedItem;            
+        }
+
+
+   
