@@ -20,4 +20,4 @@ namespace NetworkSecurity
         }
 
 
-   
+        public FileInfo EncryptedFileInfo => 
