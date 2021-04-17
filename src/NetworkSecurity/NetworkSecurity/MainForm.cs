@@ -21,4 +21,4 @@ namespace NetworkSecurity
 
 
         public FileInfo EncryptedFileInfo => new FileInfo(lblBrowseEncryptedBinaryFile.Text);
-        public FileInfo Decr
+        public FileInfo DecryptedFileInfo => new FileInfo(l
