@@ -25,4 +25,7 @@ namespace NetworkSecurity
 
         public MainForm()
         {
-            In
+            InitializeComponent();
+
+            //
+       
