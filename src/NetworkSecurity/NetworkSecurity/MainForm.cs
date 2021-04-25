@@ -28,4 +28,5 @@ namespace NetworkSecurity
             InitializeComponent();
 
             //
-       
+            // Declare events for UI controls
+     
