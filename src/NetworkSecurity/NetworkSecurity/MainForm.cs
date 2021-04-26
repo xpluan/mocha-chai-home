@@ -29,4 +29,5 @@ namespace NetworkSecurity
 
             //
             // Declare events for UI controls
-     
+            //
+            txtDecryptedT
