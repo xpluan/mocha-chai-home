@@ -30,4 +30,4 @@ namespace NetworkSecurity
             //
             // Declare events for UI controls
             //
-            txtDecryptedT
+            txtDecryptedText.TextChanged += (sender, args) => r
