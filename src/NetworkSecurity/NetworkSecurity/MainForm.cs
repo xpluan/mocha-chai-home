@@ -31,4 +31,5 @@ namespace NetworkSecurity
             // Declare events for UI controls
             //
             txtDecryptedText.TextChanged += (sender, args) => rbtnSelectTextType.Checked = true;
-            txtEncryptedText.TextChanged += (sender, args) => rbtnSele
+            txtEncryptedText.TextChanged += (sender, args) => rbtnSelectTextType.Checked = true;
+           
