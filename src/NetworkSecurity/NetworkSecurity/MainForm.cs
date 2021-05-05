@@ -33,4 +33,4 @@ namespace NetworkSecurity
             txtDecryptedText.TextChanged += (sender, args) => rbtnSelectTextType.Checked = true;
             txtEncryptedText.TextChanged += (sender, args) => rbtnSelectTextType.Checked = true;
             
-            btnBrowseDecry
+            btnBrowseDecryptedBinaryFile.Click += BtnBrowseBin
