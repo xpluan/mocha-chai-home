@@ -37,4 +37,8 @@ namespace NetworkSecurity
             btnBrowseEncryptedBinaryFile.Click += BtnBrowseBinaryFile_Click;
 
             btnDecrypt.Click += BtnDecrypt_Click;
-            btnEncrypt.Click += BtnEncrypt_Clic
+            btnEncrypt.Click += BtnEncrypt_Click;
+        }
+
+
+        private void BtnBrow
