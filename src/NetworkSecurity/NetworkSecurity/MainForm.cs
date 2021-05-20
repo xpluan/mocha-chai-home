@@ -41,4 +41,6 @@ namespace NetworkSecurity
         }
 
 
-        private void BtnBrowseBinaryFile_Click(object sender, EventAr
+        private void BtnBrowseBinaryFile_Click(object sender, EventArgs e)
+        {
+            var ofd 
