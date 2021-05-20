@@ -41,4 +41,4 @@ namespace NetworkSecurity
         }
 
 
-        private void BtnBrow
+        private void BtnBrowseBinaryFile_Click(object sender, EventAr
