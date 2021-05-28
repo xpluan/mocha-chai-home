@@ -44,4 +44,5 @@ namespace NetworkSecurity
         private void BtnBrowseBinaryFile_Click(object sender, EventArgs e)
         {
             var ofd = new OpenFileDialog
-         
+            {
+                CheckFileExists =
