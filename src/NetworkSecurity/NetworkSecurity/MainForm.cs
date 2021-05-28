@@ -43,4 +43,5 @@ namespace NetworkSecurity
 
         private void BtnBrowseBinaryFile_Click(object sender, EventArgs e)
         {
-            var ofd 
+            var ofd = new OpenFileDialog
+         
