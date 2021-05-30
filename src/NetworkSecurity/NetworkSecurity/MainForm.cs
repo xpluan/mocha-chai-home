@@ -46,4 +46,5 @@ namespace NetworkSecurity
             var ofd = new OpenFileDialog
             {
                 CheckFileExists = true,
-                Multiselect =
+                Multiselect = false,
+                Filter 
