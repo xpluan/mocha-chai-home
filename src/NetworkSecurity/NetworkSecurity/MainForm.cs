@@ -47,4 +47,5 @@ namespace NetworkSecurity
             {
                 CheckFileExists = true,
                 Multiselect = false,
-                Filter = @"Binary files (*.exe;*.dll;*.bat;*.encrypted)|*.exe;*.dll;*.bat;
+                Filter = @"Binary files (*.exe;*.dll;*.bat;*.encrypted)|*.exe;*.dll;*.bat;*.encrypted|All files (*.*)|*.*",
+      
