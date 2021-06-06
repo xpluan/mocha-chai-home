@@ -53,4 +53,4 @@ namespace NetworkSecurity
 
             if (ofd.ShowDialog() == DialogResult.OK)
             {
-                if (((Cont
+                if (((Control)sender).Name.Replace
