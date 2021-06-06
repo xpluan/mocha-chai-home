@@ -51,4 +51,6 @@ namespace NetworkSecurity
                 Title = @"Open binary file"
             };
 
-            if (ofd.ShowDialog() == DialogResult
+            if (ofd.ShowDialog() == DialogResult.OK)
+            {
+                if (((Cont
