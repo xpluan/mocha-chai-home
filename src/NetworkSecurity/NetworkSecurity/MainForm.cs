@@ -54,4 +54,6 @@ namespace NetworkSecurity
             if (ofd.ShowDialog() == DialogResult.OK)
             {
                 if (((Control)sender).Name.Replace("btn", "lbl") == nameof(lblBrowseDecryptedBinaryFile))
-                    lblBrowseDecryptedBinaryFile.Text 
+                    lblBrowseDecryptedBinaryFile.Text = ofd.FileName;
+                else
+       
