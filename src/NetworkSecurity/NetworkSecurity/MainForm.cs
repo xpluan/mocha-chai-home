@@ -56,4 +56,6 @@ namespace NetworkSecurity
                 if (((Control)sender).Name.Replace("btn", "lbl") == nameof(lblBrowseDecryptedBinaryFile))
                     lblBrowseDecryptedBinaryFile.Text = ofd.FileName;
                 else
-                    lblBrowseEncryptedBinaryFile.Text =
+                    lblBrowseEncryptedBinaryFile.Text = ofd.FileName;
+
+                rbtn
