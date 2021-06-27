@@ -59,4 +59,7 @@ namespace NetworkSecurity
                     lblBrowseEncryptedBinaryFile.Text = ofd.FileName;
 
                 rbtnSelectBinaryType.Checked = true;
-           
+            }
+        }
+
+        private 
