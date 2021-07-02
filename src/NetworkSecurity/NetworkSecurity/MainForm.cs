@@ -64,4 +64,5 @@ namespace NetworkSecurity
 
         private void MainForm_Load(object sender, EventArgs e)
         {
-            // fill alg
+            // fill algorithm combo box on main form
+            
