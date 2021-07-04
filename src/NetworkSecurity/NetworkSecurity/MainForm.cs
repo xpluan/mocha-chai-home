@@ -65,4 +65,6 @@ namespace NetworkSecurity
         private void MainForm_Load(object sender, EventArgs e)
         {
             // fill algorithm combo box on main form
-            foreach (EnumCryptographyAlgorithms al in Enum.GetValues(typeof(EnumCryptogra
+            foreach (EnumCryptographyAlgorithms al in Enum.GetValues(typeof(EnumCryptographyAlgorithms)))
+            {
+               
