@@ -67,4 +67,5 @@ namespace NetworkSecurity
             // fill algorithm combo box on main form
             foreach (EnumCryptographyAlgorithms al in Enum.GetValues(typeof(EnumCryptographyAlgorithms)))
             {
-               
+                cmbCryptoTypes.Items.Add(al);   
+  
