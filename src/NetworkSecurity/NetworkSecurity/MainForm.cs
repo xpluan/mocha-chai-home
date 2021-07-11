@@ -68,4 +68,6 @@ namespace NetworkSecurity
             foreach (EnumCryptographyAlgorithms al in Enum.GetValues(typeof(EnumCryptographyAlgorithms)))
             {
                 cmbCryptoTypes.Items.Add(al);   
-  
+            }
+
+            cmbCryptoTyp
