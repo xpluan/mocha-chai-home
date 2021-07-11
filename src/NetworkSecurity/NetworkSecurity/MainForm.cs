@@ -70,4 +70,8 @@ namespace NetworkSecurity
                 cmbCryptoTypes.Items.Add(al);   
             }
 
-            cmbCryptoTyp
+            cmbCryptoTypes.SelectedIndex = 0;
+        }
+
+
+        
