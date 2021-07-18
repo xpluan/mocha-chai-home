@@ -74,4 +74,4 @@ namespace NetworkSecurity
         }
 
 
-        
+        private void BtnEncrypt_Click(obje
