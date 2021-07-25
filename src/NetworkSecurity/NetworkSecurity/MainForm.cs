@@ -76,4 +76,5 @@ namespace NetworkSecurity
 
         private void BtnEncrypt_Click(object sender, EventArgs e)
         {
-            var 
+            var timer = Stopwatch.StartNew();
+
