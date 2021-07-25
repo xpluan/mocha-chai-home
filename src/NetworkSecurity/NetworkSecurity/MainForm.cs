@@ -80,4 +80,4 @@ namespace NetworkSecurity
 
             try
             {
-    
+                if (rbtnSelectTextType.Chec
