@@ -78,3 +78,6 @@ namespace NetworkSecurity
         {
             var timer = Stopwatch.StartNew();
 
+            try
+            {
+    
