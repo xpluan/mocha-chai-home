@@ -81,4 +81,5 @@ namespace NetworkSecurity
             try
             {
                 if (rbtnSelectTextType.Checked) // Text Encryption
-                
+                {
+                    txtEncryptedTex
