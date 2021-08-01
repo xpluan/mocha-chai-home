@@ -83,3 +83,5 @@ namespace NetworkSecurity
                 if (rbtnSelectTextType.Checked) // Text Encryption
                 {
                     txtEncryptedText.Text = txtDecryptedText.Text.Encrypt(GetKey(), GetSelectedAlgorithm());
+                    timer.Stop();
+       
