@@ -86,4 +86,5 @@ namespace NetworkSecurity
                     timer.Stop();
                 }
                 else // is binary 
-       
+                {
+                    var de
