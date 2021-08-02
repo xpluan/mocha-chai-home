@@ -87,4 +87,5 @@ namespace NetworkSecurity
                 }
                 else // is binary 
                 {
-                    var de
+                    var deFile = DecryptedFileInfo;
+    
