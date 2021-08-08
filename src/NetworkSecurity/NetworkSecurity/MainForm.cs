@@ -88,4 +88,6 @@ namespace NetworkSecurity
                 else // is binary 
                 {
                     var deFile = DecryptedFileInfo;
-                    if (deFile.Exists) // B
+                    if (deFile.Exists) // Binary Encryption
+                    {
+           
