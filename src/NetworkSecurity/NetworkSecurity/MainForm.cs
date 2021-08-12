@@ -91,4 +91,4 @@ namespace NetworkSecurity
                     if (deFile.Exists) // Binary Encryption
                     {
                         var decryptedBytes = File.ReadAllBytes(deFile.FullName);
-                 
+                        var encryptedBytes = decryptedB
