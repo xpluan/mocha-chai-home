@@ -92,4 +92,5 @@ namespace NetworkSecurity
                     {
                         var decryptedBytes = File.ReadAllBytes(deFile.FullName);
                         var encryptedBytes = decryptedBytes.Encrypt(GetKey(), GetSelectedAlgorithm());
-                        var encryptedFilePath = Path.Combine(deFile.DirectoryName,
+                        var encryptedFilePath = Path.Combine(deFile.DirectoryName, deFile.Name + ".encrypted");
+           
