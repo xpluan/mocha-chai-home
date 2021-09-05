@@ -95,4 +95,5 @@ namespace NetworkSecurity
                         var encryptedFilePath = Path.Combine(deFile.DirectoryName, deFile.Name + ".encrypted");
                         File.WriteAllBytes(encryptedFilePath, encryptedBytes);
                         lblBrowseEncryptedBinaryFile.Text = encryptedFilePath;
-      
+                        timer.Stop();
+       
