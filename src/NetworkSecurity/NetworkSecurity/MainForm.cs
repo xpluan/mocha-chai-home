@@ -96,4 +96,4 @@ namespace NetworkSecurity
                         File.WriteAllBytes(encryptedFilePath, encryptedBytes);
                         lblBrowseEncryptedBinaryFile.Text = encryptedFilePath;
                         timer.Stop();
-       
+                        MessageBox.Show($
