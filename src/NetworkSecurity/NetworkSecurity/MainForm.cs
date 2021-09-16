@@ -97,4 +97,6 @@ namespace NetworkSecurity
                         lblBrowseEncryptedBinaryFile.Text = encryptedFilePath;
                         timer.Stop();
                         MessageBox.Show($@"The encrypted file stored in: {encryptedFilePath}");
-               
+                    }
+                }
+  
