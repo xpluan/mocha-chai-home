@@ -99,4 +99,5 @@ namespace NetworkSecurity
                         MessageBox.Show($@"The encrypted file stored in: {encryptedFilePath}");
                     }
                 }
-  
+            }
+            catch (Exception exp)
