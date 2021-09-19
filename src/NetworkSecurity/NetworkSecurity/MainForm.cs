@@ -102,4 +102,5 @@ namespace NetworkSecurity
             }
             catch (Exception exp)
             {
-                timer
+                timer.Stop();
+                MessageB
