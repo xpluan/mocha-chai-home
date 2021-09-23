@@ -103,4 +103,4 @@ namespace NetworkSecurity
             catch (Exception exp)
             {
                 timer.Stop();
-                MessageBox.Show(exp.Message, @"Encryption Error
+                MessageBox.Show(exp.Message, @"Encryption Error", MessageBoxButtons.OK, MessageB
