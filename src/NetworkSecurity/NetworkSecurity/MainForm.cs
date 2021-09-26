@@ -105,4 +105,6 @@ namespace NetworkSecurity
                 timer.Stop();
                 MessageBox.Show(exp.Message, @"Encryption Error", MessageBoxButtons.OK, MessageBoxIcon.Error); 
             }
-            finall
+            finally
+            {
+                lblEncr
