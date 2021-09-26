@@ -107,4 +107,4 @@ namespace NetworkSecurity
             }
             finally
             {
-                lblEncryptDuration.Text = $@"Encrypt Duration: {time
+                lblEncryptDuration.Text = $@"Encrypt Duration: {timer.ElapsedMilliseconds}ms"; 
