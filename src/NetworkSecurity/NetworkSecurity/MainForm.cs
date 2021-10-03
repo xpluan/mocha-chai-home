@@ -112,4 +112,4 @@ namespace NetworkSecurity
 
         }
 
-     
+        private void BtnDecrypt_Click(object s
