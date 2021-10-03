@@ -112,4 +112,6 @@ namespace NetworkSecurity
 
         }
 
-        private void BtnDecrypt_Click(object s
+        private void BtnDecrypt_Click(object sender, EventArgs e)
+        {
+            var time
