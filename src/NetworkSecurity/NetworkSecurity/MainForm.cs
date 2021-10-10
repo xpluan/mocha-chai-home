@@ -116,4 +116,4 @@ namespace NetworkSecurity
         {
             var timer = Stopwatch.StartNew();
             var decryptionAlgorithm = GetSelectedAlgorithm();
-       
+            if (decryptionAlgorithm.GetCr
