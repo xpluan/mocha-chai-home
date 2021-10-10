@@ -115,4 +115,4 @@ namespace NetworkSecurity
         private void BtnDecrypt_Click(object sender, EventArgs e)
         {
             var timer = Stopwatch.StartNew();
-    
+            var decryptionAlgorithm 
