@@ -116,4 +116,6 @@ namespace NetworkSecurity
         {
             var timer = Stopwatch.StartNew();
             var decryptionAlgorithm = GetSelectedAlgorithm();
-            if (decryptionAlgorithm.GetCryptoServiceProvider() is HashAlgorit
+            if (decryptionAlgorithm.GetCryptoServiceProvider() is HashAlgorithm)
+            {
+           
