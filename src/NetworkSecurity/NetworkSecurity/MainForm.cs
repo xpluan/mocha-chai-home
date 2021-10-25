@@ -118,4 +118,4 @@ namespace NetworkSecurity
             var decryptionAlgorithm = GetSelectedAlgorithm();
             if (decryptionAlgorithm.GetCryptoServiceProvider() is HashAlgorithm)
             {
-           
+                MessageBox.Show(@"Can not de
