@@ -119,4 +119,4 @@ namespace NetworkSecurity
             if (decryptionAlgorithm.GetCryptoServiceProvider() is HashAlgorithm)
             {
                 MessageBox.Show(@"Can not decrypt hashed contents!!!", @"Decryption Warning", MessageBoxButtons.OK,
-    
+                    MessageBoxIcon.Wa
