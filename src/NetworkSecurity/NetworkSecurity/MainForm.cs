@@ -123,4 +123,5 @@ namespace NetworkSecurity
                 return;
             }
             try
-        
+            {
+                if (rbtnSelectTextType.
