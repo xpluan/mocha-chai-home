@@ -126,4 +126,4 @@ namespace NetworkSecurity
             {
                 if (rbtnSelectTextType.Checked) // Text Decryption
                 {
-                    txtDecryptedText.Text = txtEncryptedText.
+                    txtDecryptedText.Text = txtEncryptedText.Text.Decrypt(GetKey(), GetSelectedAlgorit
