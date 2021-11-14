@@ -128,4 +128,6 @@ namespace NetworkSecurity
                 {
                     txtDecryptedText.Text = txtEncryptedText.Text.Decrypt(GetKey(), GetSelectedAlgorithm());
                     timer.Stop();
-            
+                }
+                else
+    
