@@ -131,4 +131,5 @@ namespace NetworkSecurity
                 }
                 else
                 {
-                    v
+                    var encFile = EncryptedFileInfo;
+ 
