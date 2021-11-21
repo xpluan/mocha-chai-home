@@ -132,4 +132,5 @@ namespace NetworkSecurity
                 else
                 {
                     var encFile = EncryptedFileInfo;
-                    if (encFile.Exists) /
+                    if (encFile.Exists) // Binary Decryption
+            
