@@ -132,4 +132,4 @@ namespace NetworkSecurity
                 else
                 {
                     var encFile = EncryptedFileInfo;
- 
+                    if (encFile.Exists) /
