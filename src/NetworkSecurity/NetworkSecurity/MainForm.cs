@@ -134,4 +134,4 @@ namespace NetworkSecurity
                     var encFile = EncryptedFileInfo;
                     if (encFile.Exists) // Binary Decryption
                     {
-                        var encryptedB
+                        var encryptedBytes = File.ReadAllBytes(e
