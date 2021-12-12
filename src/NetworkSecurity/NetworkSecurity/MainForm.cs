@@ -137,4 +137,4 @@ namespace NetworkSecurity
                         var encryptedBytes = File.ReadAllBytes(encFile.FullName);
                         var decryptedBytes = encryptedBytes.Decrypt(GetKey(), GetSelectedAlgorithm());
                         var decryptedFilePath = Path.Combine(encFile.DirectoryName, encFile.Name.Replace(".encrypted", ""));
-                     
+                        File.WriteAllBytes(decrypte
