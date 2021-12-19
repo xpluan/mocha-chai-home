@@ -141,4 +141,6 @@ namespace NetworkSecurity
                         lblBrowseDecryptedBinaryFile.Text = decryptedFilePath;
                         timer.Stop();
                         MessageBox.Show($@"The decrypted file stored in: {decryptedFilePath}");
-       
+                    }
+                }
+     
