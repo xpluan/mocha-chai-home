@@ -140,4 +140,5 @@ namespace NetworkSecurity
                         File.WriteAllBytes(decryptedFilePath, decryptedBytes);
                         lblBrowseDecryptedBinaryFile.Text = decryptedFilePath;
                         timer.Stop();
-                        MessageBox.Show($@"The decrypted file stored in: 
+                        MessageBox.Show($@"The decrypted file stored in: {decryptedFilePath}");
+       
