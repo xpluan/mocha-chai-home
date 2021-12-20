@@ -143,4 +143,5 @@ namespace NetworkSecurity
                         MessageBox.Show($@"The decrypted file stored in: {decryptedFilePath}");
                     }
                 }
-     
+            }
+            catch (Exception ex
