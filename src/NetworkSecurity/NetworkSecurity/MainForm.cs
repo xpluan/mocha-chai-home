@@ -146,4 +146,5 @@ namespace NetworkSecurity
             }
             catch (Exception exp)
             {
-                timer.S
+                timer.Stop();
+                MessageBox.Sh
