@@ -147,4 +147,4 @@ namespace NetworkSecurity
             catch (Exception exp)
             {
                 timer.Stop();
-                MessageBox.Sh
+                MessageBox.Show(exp.Message, @"Decryption
