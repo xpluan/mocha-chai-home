@@ -144,4 +144,6 @@ namespace NetworkSecurity
                     }
                 }
             }
-            catch (Exception ex
+            catch (Exception exp)
+            {
+                timer.S
