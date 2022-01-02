@@ -149,3 +149,6 @@ namespace NetworkSecurity
                 timer.Stop();
                 MessageBox.Show(exp.Message, @"Decryption Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+            finally
+            {
+   
