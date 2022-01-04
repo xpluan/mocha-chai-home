@@ -151,4 +151,4 @@ namespace NetworkSecurity
             }
             finally
             {
-                lblDecryptDuration.Tex
+                lblDecryptDuration.Text = $@"Decrypt Duration: {timer.ElapsedMilliseconds
