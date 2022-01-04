@@ -151,4 +151,8 @@ namespace NetworkSecurity
             }
             finally
             {
-                lblDecryptDuration.Text = $@"Decrypt Duration: {timer.ElapsedMilliseconds
+                lblDecryptDuration.Text = $@"Decrypt Duration: {timer.ElapsedMilliseconds}ms";
+            }
+        }
+        
+    }
