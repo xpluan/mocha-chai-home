@@ -55,4 +55,4 @@
             : and then encoded with base64 encoding.
 
     mimetype: application/x-microsoft.net.object.bytearray.base64
-    va
+    value   : The object must be serial
