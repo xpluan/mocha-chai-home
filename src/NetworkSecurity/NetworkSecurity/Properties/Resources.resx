@@ -98,4 +98,6 @@
               <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
-        </x
+        </xsd:choice>
+      </xsd:complexType>
+    
