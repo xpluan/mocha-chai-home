@@ -8,4 +8,8 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespa
+namespace NetworkSecurity.Properties
+{
+
+
+  
