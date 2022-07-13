@@ -12,4 +12,4 @@ namespace NetworkSecurity.Properties
 {
 
 
-  
+    [global::System.Runtime.Compiler
