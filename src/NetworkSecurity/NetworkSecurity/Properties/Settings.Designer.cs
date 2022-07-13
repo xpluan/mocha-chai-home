@@ -12,4 +12,5 @@ namespace NetworkSecurity.Properties
 {
 
 
-    [global::System.Runtime.Compiler
+    [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
+    [
