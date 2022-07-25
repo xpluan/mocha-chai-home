@@ -17,4 +17,4 @@ namespace NetworkSecurity.Properties
     internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase
     {
 
-        priv
+        private static Settings defaultInstance = ((S
