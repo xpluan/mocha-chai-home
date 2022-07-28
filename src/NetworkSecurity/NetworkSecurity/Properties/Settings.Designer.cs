@@ -19,4 +19,6 @@ namespace NetworkSecurity.Properties
 
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
 
-        publi
+        public static Settings Default
+        {
+   
