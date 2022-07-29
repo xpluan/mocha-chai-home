@@ -21,4 +21,6 @@ namespace NetworkSecurity.Properties
 
         public static Settings Default
         {
-   
+            get
+            {
+            
