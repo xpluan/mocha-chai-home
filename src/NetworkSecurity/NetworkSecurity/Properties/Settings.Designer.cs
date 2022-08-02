@@ -25,4 +25,6 @@ namespace NetworkSecurity.Properties
             {
                 return defaultInstance;
             }
-     
+        }
+    }
+}
