@@ -1,4 +1,5 @@
 E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس آنلاین\13961221_1_آموزشيار\تمرين سري اول\behzad\ExCryptography-master\src\NetworkSecurity\output\NetworkSecurity.exe.config
 E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس آنلاین\13961221_1_آموزشيار\تمرين سري اول\behzad\ExCryptography-master\src\NetworkSecurity\output\NetworkSecurity.exe
 E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس آنلاین\13961221_1_آموزشيار\تمرين سري اول\behzad\ExCryptography-master\src\NetworkSecurity\output\NetworkSecurity.pdb
-E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس آنلاین\13961221_1_آموزشيار\تمرين سري اول\behzad\ExCryptography-master\src\NetworkSecurity\NetworkSecurity\obj\Debug\NetworkSecurity
+E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس آنلاین\13961221_1_آموزشيار\تمرين سري اول\behzad\ExCryptography-master\src\NetworkSecurity\NetworkSecurity\obj\Debug\NetworkSecurity.csprojResolveAssemblyReference.cache
+E:
