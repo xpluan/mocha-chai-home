@@ -11,4 +11,4 @@ E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس
 E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس آنلاین\تمرين سري اول\behzad\ExCryptography-master\src\NetworkSecurity\output\NetworkSecurity.exe
 E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس آنلاین\تمرين سري اول\behzad\ExCryptography-master\src\NetworkSecurity\output\NetworkSecurity.pdb
 E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس آنلاین\تمرين سري اول\behzad\ExCryptography-master\src\NetworkSecurity\NetworkSecurity\obj\Debug\NetworkSecurity.csprojResolveAssemblyReference.cache
-E:\دانش
+E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس آنلاین\تمرين س
