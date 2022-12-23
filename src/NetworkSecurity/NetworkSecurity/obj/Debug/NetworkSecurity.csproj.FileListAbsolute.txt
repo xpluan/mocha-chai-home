@@ -19,4 +19,4 @@ E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس
 E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس آنلاین\تمرين سري اول\behzad\ExCryptography\src\NetworkSecurity\NetworkSecurity\obj\Debug\NetworkSecurity.csprojResolveAssemblyReference.cache
 E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس آنلاین\تمرين سري اول\behzad\ExCryptography\src\NetworkSecurity\NetworkSecurity\obj\Debug\NetworkSecurity.MainForm.resources
 E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس آنلاین\تمرين سري اول\behzad\ExCryptography\src\NetworkSecurity\NetworkSecurity\obj\Debug\NetworkSecurity.Properties.Resources.resources
-E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس آنلاین\تمرين سري اول\behzad\ExCryptography\src\NetworkSecurity\NetworkSecurity\obj\Debug\NetworkSecurity
+E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس آنلاین\تمرين سري اول\behzad\ExCryptography\src\NetworkSecurity\NetworkSecurity\obj\Debug\NetworkSecurity.csproj.GenerateResource.Cache
