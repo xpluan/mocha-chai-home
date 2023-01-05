@@ -21,4 +21,4 @@ E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس
 E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس آنلاین\تمرين سري اول\behzad\ExCryptography\src\NetworkSecurity\NetworkSecurity\obj\Debug\NetworkSecurity.Properties.Resources.resources
 E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس آنلاین\تمرين سري اول\behzad\ExCryptography\src\NetworkSecurity\NetworkSecurity\obj\Debug\NetworkSecurity.csproj.GenerateResource.Cache
 E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس آنلاین\تمرين سري اول\behzad\ExCryptography\src\NetworkSecurity\NetworkSecurity\obj\Debug\NetworkSecurity.exe
-E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس آنلاین\تمرين سري اول\beh
+E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس آنلاین\تمرين سري اول\behzad\ExCryptography\src\NetworkS
