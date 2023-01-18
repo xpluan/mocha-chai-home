@@ -23,4 +23,4 @@ E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس
 E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس آنلاین\تمرين سري اول\behzad\ExCryptography\src\NetworkSecurity\NetworkSecurity\obj\Debug\NetworkSecurity.exe
 E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس آنلاین\تمرين سري اول\behzad\ExCryptography\src\NetworkSecurity\NetworkSecurity\obj\Debug\NetworkSecurity.pdb
 E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس آنلاین\تمرين سري اول\behzad\ExCryptography\src\NetworkSecurity\output\NetworkSecurity.exe.config
-E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس آنلاین\
+E:\دانشگاه شهید بهشتی\ترم دوم\امنيت شبکه\کلاس آنلاین\تمرين سري اول\behzad\ExCryptography\src\Net
