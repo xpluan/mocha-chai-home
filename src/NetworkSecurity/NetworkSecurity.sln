@@ -4,4 +4,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkSecurity", "NetworkSecurity\NetworkSecurity.csproj", "{FA78597B-A52A-4409-A42C-27FE8E2F15DB}"
-EndP
+EndProject
+Global
+	GlobalSection(SolutionCo
