@@ -6,4 +6,5 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkSecurity", "NetworkSecurity\NetworkSecurity.csproj", "{FA78597B-A52A-4409-A42C-27FE8E2F15DB}"
 EndProject
 Global
-	GlobalSection(SolutionCo
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|
